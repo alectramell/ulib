@@ -14,9 +14,11 @@ sudo apt-get install git
 
 clear
 
-gnome-terminal -x sh -c "cd ~/ && git clone https://github.com/alectramell/ulib.git"
+gnome-terminal -x sh -c "cd ~/ && git clone https://github.com/alectramell/ulib.git && clear"
 
 clear
 
-echo "Update Finished!" && sleep 5 && clear
+sh /home/$USERNAME/ulib/help.sh
+
+clear
 
