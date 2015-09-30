@@ -14,11 +14,7 @@ sudo apt-get install git
 
 clear
 
-sudo rm -r /usr/share/umbra/ulib
-
-clear
-
-sudo cd /usr/share/umbra/ && sudo git clone https://github.com/alectramell/ulib.git
+sudo cd ~/ && sudo git clone https://github.com/alectramell/ulib.git
 
 clear
 
