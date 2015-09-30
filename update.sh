@@ -20,7 +20,7 @@ sudo rm -r /home/$USERNAME/Desktop/ulib
 
 clear
 
-gnome-terminal -x sh -c "cd /home/$USERNAME/Desktop/ && git clone https://github.com/alectramell/ulib.git && clear"
+cd /home/$USERNAME/Desktop/ && git clone https://github.com/alectramell/ulib.git && clear
 
 clear
 
