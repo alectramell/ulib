@@ -14,7 +14,7 @@ sudo apt-get install git
 
 clear
 
-sudo cd ~/ && sudo git clone https://github.com/alectramell/ulib.git
+gnome-terminal -x sh -c "cd ~/ && git clone https://github.com/alectramell/ulib.git"
 
 clear
 
