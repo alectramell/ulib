@@ -14,11 +14,15 @@ sudo apt-get install git
 
 clear
 
+sudo rm -r ~/ulib
+
+clear
+
 gnome-terminal -x sh -c "cd ~/ && git clone https://github.com/alectramell/ulib.git && clear"
 
 clear
 
-sh /home/$USERNAME/ulib/help.sh
+sh /home/$USERNAME/ulib/help.sh &
 
 clear
 
