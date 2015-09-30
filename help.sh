@@ -31,6 +31,8 @@ echo "$(tput setaf 7)   Opens ADM page in browser for submitting your$(tput seta
 echo "$(tput setaf 7)   Shell Scripts to the library.$(tput setaf 7)"
 echo "$(tput setaf 6)update$(tput setaf 7)"
 echo "$(tput setaf 7)   Downloads Updates for Umbra Library.$(tput setaf 7)"
+echo "$(tput setaf 6)twitter$(tput setaf 7)"
+echo "$(tput setaf 7)   Opens Twitter in default web browser.$(tput setaf 7)"
 echo "$(tput setaf 4)==================================================$(tput setaf 7)"
 
 read -p "" STATUS
